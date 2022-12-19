@@ -1,0 +1,15 @@
+C:\Users\mak7i\source\repos\CLAB1\CLAB1\bin\Debug\net6.0\CLAB1.exe
+C:\Users\mak7i\source\repos\CLAB1\CLAB1\bin\Debug\net6.0\CLAB1.deps.json
+C:\Users\mak7i\source\repos\CLAB1\CLAB1\bin\Debug\net6.0\CLAB1.runtimeconfig.json
+C:\Users\mak7i\source\repos\CLAB1\CLAB1\bin\Debug\net6.0\CLAB1.dll
+C:\Users\mak7i\source\repos\CLAB1\CLAB1\bin\Debug\net6.0\CLAB1.pdb
+C:\Users\mak7i\source\repos\CLAB1\CLAB1\obj\Debug\net6.0\CLAB1.csproj.AssemblyReference.cache
+C:\Users\mak7i\source\repos\CLAB1\CLAB1\obj\Debug\net6.0\CLAB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mak7i\source\repos\CLAB1\CLAB1\obj\Debug\net6.0\CLAB1.AssemblyInfoInputs.cache
+C:\Users\mak7i\source\repos\CLAB1\CLAB1\obj\Debug\net6.0\CLAB1.AssemblyInfo.cs
+C:\Users\mak7i\source\repos\CLAB1\CLAB1\obj\Debug\net6.0\CLAB1.csproj.CoreCompileInputs.cache
+C:\Users\mak7i\source\repos\CLAB1\CLAB1\obj\Debug\net6.0\CLAB1.dll
+C:\Users\mak7i\source\repos\CLAB1\CLAB1\obj\Debug\net6.0\refint\CLAB1.dll
+C:\Users\mak7i\source\repos\CLAB1\CLAB1\obj\Debug\net6.0\CLAB1.pdb
+C:\Users\mak7i\source\repos\CLAB1\CLAB1\obj\Debug\net6.0\CLAB1.genruntimeconfig.cache
+C:\Users\mak7i\source\repos\CLAB1\CLAB1\obj\Debug\net6.0\ref\CLAB1.dll

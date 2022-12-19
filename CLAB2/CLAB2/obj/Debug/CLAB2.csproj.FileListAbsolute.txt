@@ -1,0 +1,11 @@
+C:\Users\mak7i\source\repos\CLAB2\CLAB2\bin\Debug\CLAB2.exe.config
+C:\Users\mak7i\source\repos\CLAB2\CLAB2\bin\Debug\CLAB2.exe
+C:\Users\mak7i\source\repos\CLAB2\CLAB2\bin\Debug\CLAB2.pdb
+C:\Users\mak7i\source\repos\CLAB2\CLAB2\obj\Debug\CLAB2.csproj.AssemblyReference.cache
+C:\Users\mak7i\source\repos\CLAB2\CLAB2\obj\Debug\CLAB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mak7i\source\repos\CLAB2\CLAB2\obj\Debug\CLAB2.Form1.resources
+C:\Users\mak7i\source\repos\CLAB2\CLAB2\obj\Debug\CLAB2.Properties.Resources.resources
+C:\Users\mak7i\source\repos\CLAB2\CLAB2\obj\Debug\CLAB2.csproj.GenerateResource.cache
+C:\Users\mak7i\source\repos\CLAB2\CLAB2\obj\Debug\CLAB2.csproj.CoreCompileInputs.cache
+C:\Users\mak7i\source\repos\CLAB2\CLAB2\obj\Debug\CLAB2.exe
+C:\Users\mak7i\source\repos\CLAB2\CLAB2\obj\Debug\CLAB2.pdb
